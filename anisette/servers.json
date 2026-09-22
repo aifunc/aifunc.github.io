@@ -1,8 +1,0 @@
-{
-  "servers": [
-    {
-      "name": "aifunc",
-      "address": "https://anisette-v3-server-2epa.onrender.com"
-    }
-  ]
-}
